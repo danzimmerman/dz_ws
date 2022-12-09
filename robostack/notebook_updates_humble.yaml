@@ -1,0 +1,31 @@
+# Extension packages to add the Jupyter/meshcat/pinocchio/NPE functionality into a Robostack ROS environment.
+# 
+# Usage (from activated environment in directory with this file): mamba env update -f notebook_updates.yaml
+#
+#
+name: humble
+channels:
+  - robostack-humble
+  - robostack-experimental
+  - robostack
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - scipy
+  - matplotlib
+  - numpy
+  - pinocchio
+  - pip
+  # -- these are to try to satisfy some pip-solved dependencies from conda-forge instead
+  - pyngrok
+  - u-msgpack-python
+  - pygit2 
+  # == these are more (besides above) for meshcat, probably there anyway from jupyter, etc. ==
+  - ipython
+  - pillow
+  - pyzmq
+  - tornado
+  # == use pip show <pip-packagename> to determine more before installing ==
+  # pip:
+  #  - robotpy-cppheaderparser
