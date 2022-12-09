@@ -7,3 +7,6 @@
 [submodule "src/gz_ros2_control"]
 	path = src/gz_ros2_control
 	url = https://github.com/ros-controls/gz_ros2_control.git
+[submodule "src/Universal_Robots_ROS2_Gazebo_Simulation"]
+	path = src/Universal_Robots_ROS2_Gazebo_Simulation
+	url = https://github.com/UniversalRobots/Universal_Robots_ROS2_Gazebo_Simulation.git
