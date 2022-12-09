@@ -1,0 +1,3 @@
+[submodule "src/dz_minimal_controller"]
+	path = src/dz_minimal_controller
+	url = https://github.com/danzimmerman/dz_minimal_controller.git
