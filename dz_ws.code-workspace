@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../opt/ros/rolling"
+		}
+	],
+	"settings": {
+		"C_Cpp.default.includePath": [
+			"/opt/ros/rolling/include/**"
+		],
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
