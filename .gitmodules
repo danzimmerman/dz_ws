@@ -16,6 +16,6 @@
 [submodule "src/RSL"]
 	path = src/RSL
 	url = https://github.com/PickNikRobotics/RSL.git
-[submodule "Universal_Robots_ROS2_Driver"]
-	path = Universal_Robots_ROS2_Driver
+[submodule "src/Universal_Robots_ROS2_Driver"]
+	path = src/Universal_Robots_ROS2_Driver
 	url = https://github.com/danzimmerman/Universal_Robots_ROS2_Driver.git
