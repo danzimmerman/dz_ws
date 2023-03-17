@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../../../opt/ros/rolling"
+		},
+		{
+			"path": "../../.local/opt/mambaforge/envs/humble-urdev"
 		}
 	],
 	"settings": {
