@@ -19,3 +19,6 @@
 [submodule "src/Universal_Robots_ROS2_Driver"]
 	path = src/Universal_Robots_ROS2_Driver
 	url = https://github.com/danzimmerman/Universal_Robots_ROS2_Driver.git
+[submodule "src/ros2_controllers"]
+	path = src/ros2_controllers
+	url = https://github.com/ros-controls/ros2_controllers.git
