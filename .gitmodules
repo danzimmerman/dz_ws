@@ -22,3 +22,6 @@
 [submodule "src/gazebo_ros2_control"]
 	path = src/gazebo_ros2_control
 	url = https://github.com/danzimmerman/gazebo_ros2_control.git
+[submodule "src/ros2_control"]
+	path = src/ros2_control
+	url = https://github.com/danzimmerman/ros2_control.git
