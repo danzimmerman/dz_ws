@@ -25,3 +25,51 @@
 [submodule "src/ros2_control"]
 	path = src/ros2_control
 	url = https://github.com/danzimmerman/ros2_control.git
+[submodule "src/gz-physics"]
+	path = src/gz-physics
+	url = https://github.com/gazebosim/gz-physics
+[submodule "src/gz-common"]
+	path = src/gz-common
+	url = https://github.com/gazebosim/gz-common
+[submodule "src/gz-msgs"]
+	path = src/gz-msgs
+	url = https://github.com/gazebosim/gz-msgs
+[submodule "src/gz-rendering"]
+	path = src/gz-rendering
+	url = https://github.com/gazebosim/gz-rendering
+[submodule "src/gz-tools"]
+	path = src/gz-tools
+	url = https://github.com/gazebosim/gz-tools
+[submodule "src/gz-launch"]
+	path = src/gz-launch
+	url = https://github.com/gazebosim/gz-launch
+[submodule "src/gz-fuel-tools"]
+	path = src/gz-fuel-tools
+	url = https://github.com/gazebosim/gz-fuel-tools
+[submodule "src/gz-sensors"]
+	path = src/gz-sensors
+	url = https://github.com/gazebosim/gz-sensors
+[submodule "src/gz-math"]
+	path = src/gz-math
+	url = https://github.com/gazebosim/gz-math
+[submodule "src/gz-transport"]
+	path = src/gz-transport
+	url = https://github.com/gazebosim/gz-transport
+[submodule "src/gz-gui"]
+	path = src/gz-gui
+	url = https://github.com/gazebosim/gz-gui
+[submodule "src/gz-sim"]
+	path = src/gz-sim
+	url = https://github.com/gazebosim/gz-sim
+[submodule "src/sdformat"]
+	path = src/sdformat
+	url = https://github.com/gazebosim/sdformat
+[submodule "src/gz-utils"]
+	path = src/gz-utils
+	url = https://github.com/gazebosim/gz-utils
+[submodule "src/gz-cmake"]
+	path = src/gz-cmake
+	url = https://github.com/gazebosim/gz-cmake
+[submodule "src/gz-plugin"]
+	path = src/gz-plugin
+	url = https://github.com/gazebosim/gz-plugin
